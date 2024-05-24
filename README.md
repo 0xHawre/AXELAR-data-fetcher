@@ -18,7 +18,7 @@ npm install axios
 ## Setup
 1. Clone the Repository:
 ```bash 
-git clone https://github.com/YourUsername/axelar-rpc-block-height-fetcher
+git clone https://github.com/Hafxhak/AXELAR-data-fetcher.git
 cd axelar-rpc-block-height-fetcher
 ```
 2. Edit the Script:
